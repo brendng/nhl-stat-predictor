@@ -4,12 +4,12 @@ By Brendan Ng | Last Updated: January 17, 2026
 
 This project predicts the next game's statline for an NHL player using an LSTM model trained on NHL game data from the 2024-2025 season.
 
-Tech Stack:
+<img width="1278" height="916" alt="image" src="https://github.com/user-attachments/assets/7594379a-9dac-460f-b79b-c706466bf6ad" />
+
 - Backend: Node.js/Express server
 - Frontend: React (Vite)
 - Model: PyTorch LSTM
 - Data: NHL API
-
 
 ## Setup Instructions
 
